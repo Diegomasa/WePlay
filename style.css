@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Josefin Sans', sans-serif;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 25px;
+}
+.link-menu {
+    color: #191919;
+    font-size: 20px;
+}
+section {
+    display: flex;
+    align-items: center;
+    padding: 50px 20%;
+    background-color: greenyellow;
+}
+section img {
+    height: 100px;
+    margin-right: 100px;
+}
+.cadastro {
+    text-decoration: none;
+    color:#191919;
+}
